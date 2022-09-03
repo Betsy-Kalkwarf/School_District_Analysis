@@ -29,4 +29,5 @@ The per student spending data did not change with the erasing.
 *The data based on type of school also was not affected by the erasing. 
 ![alt text](https://github.com/Betsy-Kalkwarf/School_District_Analysis/blob/main/Resources/School%20type.png)
 
-## Summary: After the reading and math scores for the ninth grade at Thomas High School were replaced with NaNs there were slight changes in the data. Before the NaNs, Thomas High School had a math average of 83.4, reading average of 83.8, % passing math of 93.3, % passing reading of 97.3, and % overall passing of 90.9. After the NaNs, Thomas High School had a math average of 83.4, reading average of 83.9, % passing math of 93.2, % passing reading of 97.0, and % overall passing of 90.6.
+## Summary: 
+After the reading and math scores for the ninth grade at Thomas High School were replaced with NaNs there were slight changes in the data. Before the NaNs, Thomas High School had a math average of 83.4, reading average of 83.8, % passing math of 93.3, % passing reading of 97.3, and % overall passing of 90.9. After the NaNs, Thomas High School had a math average of 83.4, reading average of 83.9, % passing math of 93.2, % passing reading of 97.0, and % overall passing of 90.6.
